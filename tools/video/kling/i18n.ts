@@ -1,0 +1,47 @@
+
+export const klingTranslations = {
+  en: {
+    create: 'Create Video',
+    edit: 'Edit Video',
+    motion: 'Motion Control',
+    uploadTitle: 'Upload image or generate it',
+    uploadDesc: 'PNG, JPG or Paste from clipboard',
+    promptPlaceholder: 'Describe the scene you imagine, with details.',
+    enhance: 'Enhance on',
+    audio: 'Audio',
+    model: 'Model',
+    duration: 'Duration',
+    aspectRatio: 'Aspect Ratio',
+    generate: 'Generate',
+    heroTitle: 'MAKE VIDEOS IN ONE CLICK',
+    heroDesc: '250+ presets for camera control, framing, and high-quality VFX - or use the general preset for manual control.',
+    step1Title: 'ADD IMAGE',
+    step1Desc: 'Upload or generate an image to start your animation',
+    step2Title: 'CHOOSE PRESET',
+    step2Desc: 'Pick a preset to control your image movement',
+    step3Title: 'GET VIDEO',
+    step3Desc: 'Click generate to create your final animated video!'
+  },
+  ru: {
+    create: 'Создать видео',
+    edit: 'Редактировать',
+    motion: 'Управление движением',
+    uploadTitle: 'Загрузите фото или создайте его',
+    uploadDesc: 'PNG, JPG или вставьте из буфера',
+    promptPlaceholder: 'Опишите сцену, которую вы представляете, в деталях.',
+    enhance: 'Улучшение вкл.',
+    audio: 'Аудио',
+    model: 'Модель',
+    duration: 'Длительность',
+    aspectRatio: 'Соотношение',
+    generate: 'Создать',
+    heroTitle: 'СОЗДАВАЙТЕ ВИДЕО В ОДИН КЛИК',
+    heroDesc: 'Более 250 пресетов для управления камерой, кадрирования и высококачественных VFX эффектов.',
+    step1Title: 'ДОБАВЬТЕ ФОТО',
+    step1Desc: 'Загрузите или создайте изображение для начала анимации',
+    step2Title: 'ВЫБЕРИТЕ ПРЕСЕТ',
+    step2Desc: 'Выберите пресет для управления движением изображения',
+    step3Title: 'ПОЛУЧИТЕ ВИДЕО',
+    step3Desc: 'Нажмите кнопку Создать для получения финального видео!'
+  }
+};

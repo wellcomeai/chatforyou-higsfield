@@ -1,0 +1,8 @@
+{
+  "name": "NeuroForge - AI Aggregator",
+  "description": "Ультимативный агрегатор инструментов искусственного интеллекта для создания фото, видео и музыки.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
